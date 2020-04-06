@@ -1,6 +1,6 @@
 # ForgetDummy
 
-Forget Dummy main aim is to fake spot counterfeit products in the checkout cart
+Forget Dummy main aim is to spot counterfeit products in the checkout cart of any ecommerce website 🦸‍♂. 
 
 ## Development server
 

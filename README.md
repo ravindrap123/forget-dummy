@@ -1,6 +1,6 @@
 # ForgetDummy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+Forget Dummy main aim is to fake spot counterfeit products in the checkout cart
 
 ## Development server
 

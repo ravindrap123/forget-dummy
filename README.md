@@ -1,4 +1,4 @@
-# ForgetDummy
+# Forget Dummy
 
 Forget Dummy main aim is to spot counterfeit products in the checkout cart of any ecommerce website 🦸‍♂. 
 
